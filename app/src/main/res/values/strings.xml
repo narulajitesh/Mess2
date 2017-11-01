@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mess</string>
+    <string name="enterphonenumber">Enter Phone Number</string>
+    <string name="selectcountry">Select Country</string>
+    <string name="sending_sms">Sendin SMS</string>
+    <string name="entercode">Enter code</string>
+    <string name="inprogress">In progress</string>
 </resources>
