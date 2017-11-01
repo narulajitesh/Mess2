@@ -5,4 +5,6 @@
     <string name="sending_sms">Sendin SMS</string>
     <string name="entercode">Enter code</string>
     <string name="inprogress">In progress</string>
+    <string name="failed">Verification Failed</string>
+    <string name="verified">Verified</string>
 </resources>
