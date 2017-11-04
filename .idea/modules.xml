@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mess2.iml" filepath="$PROJECT_DIR$/Mess2.iml" />
-      <module fileurl="file://C:\Users\NitiN\AndroidStudioProjects\Mess2\Messaging.iml" filepath="C:\Users\NitiN\AndroidStudioProjects\Mess2\Messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Messaging.iml" filepath="$PROJECT_DIR$/Messaging.iml" />
+      <module fileurl="file://C:/Users/NitiN/AndroidStudioProjects/Mess2/Messaging.iml" filepath="C:/Users/NitiN/AndroidStudioProjects/Mess2/Messaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
