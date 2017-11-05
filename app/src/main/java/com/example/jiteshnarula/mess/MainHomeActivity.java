@@ -22,12 +22,12 @@ import com.roughike.bottombar.OnTabSelectListener;
  */
 
 public class MainHomeActivity  extends AppCompatActivity {
-
+     ViewPager vp;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final ViewPager vp = findViewById(R.id.viewpager);
+        vp = findViewById(R.id.viewpager);
         SharedPreferences sharedPreferences = MainHomeActivity.this.getSharedPreferences("Home", 0);
         vp.setAdapter(new ViewPagerAdapter(getSupportFragmentManager()));
         vp.setOnTouchListener(new View.OnTouchListener() {
